@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&width=900&lines=🩺+Appointy;Simplifying+Healthcare+Access;Built+with+MERN+Stack+(MongoDB,+Express,+React,+Node);Patient,+Doctor,+%26+Admin+Portals;Secure+Payments+via+Stripe+%26+Razorpay" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&width=900&lines=🩺+Appointy;Simplifying+Healthcare+Access;Built+with+MERN+Stack+(MongoDB,+Express,+React,+Node);Patient,+Doctor,+%26+Admin+Portals;Secure+Payments+via+Stripe+%26+Razorpay" />
 </p>
 
 # Appointy - Doctor Appointment Web App
